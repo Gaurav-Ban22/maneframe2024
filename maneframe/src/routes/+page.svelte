@@ -87,7 +87,7 @@
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8">
 		</div>
 		<!---->
-		<div class="divider text-white divider-white sm:text-4xl sm:mt-8">
+		<div class="divider text-white divider-white sm:text-4xl sm:mt-8 mb-2">
 		</div>
 		
 		<div class="w-screen h-1/2 text-center content-center justify-center content-center">
