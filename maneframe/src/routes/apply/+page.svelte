@@ -56,17 +56,17 @@
 				<li><a href="/apply">Apply</a></li>
 			</ul>
 		  </div>
-		  <a class="btn btn-ghost text-xl" href="/">ManeFrame</a>
+		  <a class="btn btn-ghost text-xl text-white" href="/">ManeFrame</a>
 		  <div class="w-10 rounded-full size-10 m-2">
 			<img alt="ManeFrame" src="/img.png" />
 		  </div>
 		</div>
 		<div class="navbar-center hidden lg:flex">
 		  <ul class="menu menu-horizontal px-1">
-			<li><a href="/#FAQ" class="text-xl">FAQ</a></li>
-			<li><a href="/#GS" class="text-xl">Guest Speakers</a></li>
-			<li><a href="/#SCHED" class="text-xl">Schedule</a></li>
-			<li><a href="/apply" class="text-xl">Apply</a></li>
+			<li><a href="/#FAQ" class="text-xl text-white">FAQ</a></li>
+			<li><a href="/#GS" class="text-xl text-white">Guest Speakers</a></li>
+			<li><a href="/#SCHED" class="text-xl text-white">Schedule</a></li>
+			<li><a href="/apply" class="text-xl text-white">Apply</a></li>
 		  </ul>
 		</div>
 		<div class="navbar-end">
