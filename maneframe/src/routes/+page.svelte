@@ -46,7 +46,7 @@
 				</a>
 			</div>
 			<div class="w-10 rounded-full mr-2">
-				<a href="https://instagram.com/@maneframe2024" target="_blank">
+				<a href="https://instagram.com/maneframe2024" target="_blank">
 					<img alt="IG" src="/icons8-instagram-48.png" />
 				</a>
 			</div>
