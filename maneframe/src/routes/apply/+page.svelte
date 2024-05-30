@@ -43,8 +43,52 @@
     <title>Apply</title>
 </head>
 <body class="overflow-x-hidden overflow-y-auto w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
+    <div class="navbar bg-base-100 fixed top-0 w-full z-10">
+		<div class="navbar-start">
+		  <div class="dropdown">
+			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+			  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+			</div>
+			<ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+				<li><a href="/#FAQ">FAQ</a></li>
+				<li><a href="/#GS">Guest Speakers</a></li>
+				<li><a href="/#SCHED">Schedule</a></li>
+				<li><a href="/apply">Apply</a></li>
+			</ul>
+		  </div>
+		  <a class="btn btn-ghost text-xl" href="/">ManeFrame</a>
+		  <div class="w-10 rounded-full">
+			<img alt="ManeFrame" src="/img.png" />
+		  </div>
+		</div>
+		<div class="navbar-center hidden lg:flex">
+		  <ul class="menu menu-horizontal px-1">
+			<li><a href="/#FAQ">FAQ</a></li>
+			<li><a href="/#GS">Guest Speakers</a></li>
+			<li><a href="/#SCHED">Schedule</a></li>
+			<li><a href="/apply">Apply</a></li>
+		  </ul>
+		</div>
+		<div class="navbar-end">
+			<div class="w-10 rounded-full mr-2">
+				<a href="https://discord.gg/JSRUHBAG" target="_blank">
+					<img alt="DC" src="/icons8-discord-48.png" />
+				</a>
+			</div>
+			<div class="w-10 rounded-full mr-2">
+				<a href="https://instagram.com/maneframe2024" target="_blank">
+					<img alt="IG" src="/icons8-instagram-48.png" />
+				</a>
+			</div>
+			<div class="w-10 rounded-full mr-10">
+				<a href="mailto:maneframe24@gmail.com" target="_blank">
+					<img alt="SMTP" src="/icons8-email-48.png" />
+				</a>
+			</div>
+		</div>
+	  </div>
 <div class="z-30 w-screen h-2/5 text-center content-center justify-center relative row-start-1">
-    <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 z-0">Apply</h1>
+    <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 z-0 mt-32">Apply</h1>
     <div class="flex content-center justify-center items-center">
         <div class="card w-96 glass shadow-xl mb-20">
             <div class="card-body">
