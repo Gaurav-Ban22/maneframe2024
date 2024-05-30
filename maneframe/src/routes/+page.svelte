@@ -13,7 +13,7 @@
 
 
 <body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none scroll-smooth">
-	<div class="navbar bg-base-100 sticky">
+	<div class="navbar bg-base-100 fixed top-0 w-full z-10">
 		<div class="navbar-start">
 		  <div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
