@@ -41,17 +41,17 @@
 		</div>
 		<div class="navbar-end">
 			<div class="w-10 rounded-full mr-2">
-				<a href="https://discord.gg/JSRUHBAG">
+				<a href="https://discord.gg/JSRUHBAG" target="_blank">
 					<img alt="DC" src="/icons8-discord-48.png" />
 				</a>
 			</div>
 			<div class="w-10 rounded-full mr-2">
-				<a href="https://instagram.com/@maneframe2024">
+				<a href="https://instagram.com/@maneframe2024" target="_blank">
 					<img alt="IG" src="/icons8-instagram-48.png" />
 				</a>
 			</div>
 			<div class="w-10 rounded-full mr-10">
-				<a href="mailto:maneframe24@gmail.com">
+				<a href="mailto:maneframe24@gmail.com" target="_blank">
 					<img alt="SMTP" src="/icons8-email-48.png" />
 				</a>
 			</div>
