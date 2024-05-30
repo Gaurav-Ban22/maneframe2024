@@ -27,7 +27,7 @@
 			</ul>
 		  </div>
 		  <a class="btn btn-ghost text-xl" href="/">ManeFrame</a>
-		  <div class="w-10 rounded-full">
+		  <div class="w-10 rounded-full m-2">
 			<img alt="ManeFrame" src="/img.png" />
 		  </div>
 		</div>
