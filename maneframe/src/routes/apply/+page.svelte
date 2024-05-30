@@ -43,7 +43,7 @@
     <title>Apply</title>
 </head>
 <body class="overflow-x-hidden overflow-y-auto w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
-    <div class="navbar bg-gray-900 fixed top-0 w-full z-20">
+    <div class="navbar bg-gray-900 fixed top-0 w-full z-10">
 		<div class="navbar-start">
 		  <div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
@@ -87,8 +87,8 @@
 			</div>
 		</div>
 	  </div>
-<div class="z-30 w-screen h-2/5 text-center content-center justify-center relative row-start-1">
-    <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 z-0 mt-32">Apply</h1>
+<div class=" w-screen h-2/5 text-center content-center justify-center relative row-start-1">
+    <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 mt-32">Apply</h1>
     <div class="flex content-center justify-center items-center">
         <div class="card w-96 glass shadow-xl mb-20">
             <div class="card-body">
