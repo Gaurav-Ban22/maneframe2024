@@ -33,10 +33,10 @@
 		</div>
 		<div class="navbar-center hidden lg:flex">
 		  <ul class="menu menu-horizontal px-1">
-			<li><a href="/#FAQ">FAQ</a></li>
-			<li><a href="/#GS">Guest Speakers</a></li>
-			<li><a href="/#SCHED">Schedule</a></li>
-			<li><a href="/apply">Apply</a></li>
+			<li><a href="/#FAQ" class="text-xl">FAQ</a></li>
+			<li><a href="/#GS" class="text-xl">Guest Speakers</a></li>
+			<li><a href="/#SCHED" class="text-xl">Schedule</a></li>
+			<li><a href="/apply" class="text-xl">Apply</a></li>
 		  </ul>
 		</div>
 		<div class="navbar-end">
