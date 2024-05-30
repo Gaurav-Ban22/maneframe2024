@@ -12,7 +12,51 @@
 <html lang="en">
 
 
-<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none">
+<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none scroll-smooth">
+	<div class="navbar bg-base-100 sticky">
+		<div class="navbar-start">
+		  <div class="dropdown">
+			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+			  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+			</div>
+			<ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+				<li><a href="/#FAQ">FAQ</a></li>
+				<li><a href="/#GS">Guest Speakers</a></li>
+				<li><a href="/#SCHED">Schedule</a></li>
+				<li><a href="/apply">Apply</a></li>
+			</ul>
+		  </div>
+		  <a class="btn btn-ghost text-xl" href="/">ManeFrame</a>
+		  <div class="w-10 rounded-full">
+			<img alt="ManeFrame" src="/img.png" />
+		  </div>
+		</div>
+		<div class="navbar-center hidden lg:flex">
+		  <ul class="menu menu-horizontal px-1">
+			<li><a href="/#FAQ">FAQ</a></li>
+			<li><a href="/#GS">Guest Speakers</a></li>
+			<li><a href="/#SCHED">Schedule</a></li>
+			<li><a href="/apply">Apply</a></li>
+		  </ul>
+		</div>
+		<div class="navbar-end">
+			<div class="w-10 rounded-full mr-2">
+				<a href="https://discord.gg/JSRUHBAG">
+					<img alt="DC" src="/icons8-discord-48.png" />
+				</a>
+			</div>
+			<div class="w-10 rounded-full mr-2">
+				<a href="https://instagram.com/@maneframe2024">
+					<img alt="IG" src="/icons8-instagram-48.png" />
+				</a>
+			</div>
+			<div class="w-10 rounded-full mr-10">
+				<a href="mailto:maneframe24@gmail.com">
+					<img alt="SMTP" src="/icons8-email-48.png" />
+				</a>
+			</div>
+		</div>
+	  </div>
 		<div class="w-screen mt-16 mb-4">
 			<img src="/img.png" alt="logo" class="m-auto object-scale-down" width="300"/>
 		</div>
@@ -46,7 +90,7 @@
 		</div>
 		<div class="w-screen flex text-center content-center justify-center">
 			<div class="text-center w-3/4 sm:w-1/2 sm:m-8">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse">Frequently Asked Questions</h1>
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse" id="FAQ">Frequently Asked Questions</h1>
 			</div>
 		</div>
 		<div class="w-screen sm:flex text-center content-center justify-center">
@@ -70,7 +114,7 @@
 		</div>
 		<div class="w-screen flex text-center content-center justify-center">
 			<div class="text-center w-3/4 sm:w-1/2 sm:m-8">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse">Guest Speakers</h1>
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse" id="GS">Guest Speakers</h1>
 			</div>
 		</div>
 		<div class="w-screen sm:flex text-center content-center justify-center">
@@ -93,7 +137,7 @@
 		<div class="w-screen h-1/2 text-center content-center justify-center content-center">
 
 			<div class="text-center">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-2 font-bold mb-8 hover:animate-pulse">Schedule</h1>
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-2 font-bold mb-8 hover:animate-pulse" id="SCHED">Schedule</h1>
 				
 				<div class="overflow-x-auto w-screen flex justify-center mb-20">
 					<table class="table bg-black bg-opacity-40 w-1/2">
