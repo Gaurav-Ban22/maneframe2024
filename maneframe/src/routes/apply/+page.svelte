@@ -43,7 +43,7 @@
     <title>Apply</title>
 </head>
 <body class="overflow-x-hidden overflow-y-auto w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
-    <div class="navbar bg-base-100 fixed top-0 w-full z-10">
+    <div class="navbar bg-gray-900 fixed top-0 w-full z-20">
 		<div class="navbar-start">
 		  <div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
@@ -57,7 +57,7 @@
 			</ul>
 		  </div>
 		  <a class="btn btn-ghost text-xl" href="/">ManeFrame</a>
-		  <div class="w-10 rounded-full">
+		  <div class="w-10 rounded-full size-10">
 			<img alt="ManeFrame" src="/img.png" />
 		  </div>
 		</div>
