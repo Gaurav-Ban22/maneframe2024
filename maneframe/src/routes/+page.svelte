@@ -64,7 +64,7 @@
 			<h1 class="text-7xl lg:text-9xl font-bold animate-bounce-small sm:text-center text-white pt-12 mb-10 sm:m-20 sm:mt-16 ">ManeFrame</h1>
 			<Typewriter mode="loop" wordInterval="3000" class="">
 				<p class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10" id="llvm">A Hackathon for Middle and High School Students</p>
-				<p class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10">June 15, 2024 @ MLK Library, San Jose State University</p>
+				<p class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10">TBD @ MLK Library, San Jose State University</p>
 			</Typewriter>
 		</div>
 		<!-- <div class="divider text-white divider-white sm:text-4xl">

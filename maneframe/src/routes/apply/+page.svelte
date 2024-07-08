@@ -93,7 +93,7 @@
         <div class="card w-96 glass shadow-xl mb-20">
             <div class="card-body">
                 <h2 class="font-bold text-2xl text-white">Sign Up!</h2>
-                <h1 class="font-bold text-md text-white">June 15th, 9:30 AM to 5:00 PM</h1>
+                <h1 class="font-bold text-md text-white">TBD, 9:30 AM to 5:00 PM</h1>
                 <h1 class="font-bold text-md text-white">MLK Library, San Jose State University</h1>
                 <!------>
                 <form method="POST">
