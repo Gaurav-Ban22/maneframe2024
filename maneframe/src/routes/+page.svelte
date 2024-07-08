@@ -106,6 +106,10 @@
 				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">Does it cost money?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">Nope! Maneframe is absolutely free! We encourage anyone in middle or high school to attend.</p>
 			</div>
+			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
+				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">Do I need a team?</h1>
+				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">A team is not necessary, but working in a team is a great way to collaborate with like-minded peers! We will have a Team Mixer, or an event to allocate teams, if you are unsure who to team up with.</p>
+			</div>
 		</div>
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8">
 		</div>
