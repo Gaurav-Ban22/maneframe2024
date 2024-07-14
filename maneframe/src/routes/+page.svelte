@@ -81,6 +81,8 @@
 			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
 				<h1 class="text-white text-3xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 p-4 hover:animate-pulse">Hey!</h1>
 				<p class="text-white text-xl lg:text-2xl 2xl:text3xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
+				<p class="text-white text-xl lg:text-2xl 2xl:text3xl text-center justify-center content-center mb-4">ManeFrame 2024 is organized by a team of high school students in the Bay Area passionate about all aspects of computer science, from machine learning to web development and everything in between. With top-tier workshops and mentors, we aim to foster an environment of collaboration and hands-on learning to spark innovation in the minds of this young generation. With the help of San Jose Public Library, we promise to make the most engaging and truly fun coding-based event we truly can!</p>
+			
 			</div>
 		</div>
 		<div class="divider text-white divider-white sm:text-4xl">
@@ -93,21 +95,21 @@
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse" id="FAQ">Frequently Asked Questions</h1>
 			</div>
 		</div>
-		<div class="w-screen sm:flex text-center content-center justify-center">
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
-				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">What is a Hackathon?</h1>
+		<div class="w-screen lg:flex text-center content-center justify-center">
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
+				<h1 class="text-white text-3xl lg:text-2xl xl:text-4xl lg:ml-8 lg:mr-8 font-bold mb-8 mt-8 hover:animate-pulse">What is a Hackathon?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">A Hackathon is an event where you code a project for a certain amount of time and then get it judged. It is meant to be a fun event where you can create anything you want with freedom, and where you can explore the amazing world of computer science.</p>
 			</div>
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
-				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">What do I make?</h1>
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
+				<h1 class="text-white  text-3xl lg:text-2xl xl:text-4xl lg:ml-8 lg:mr-8 font-bold mb-8 mt-8 hover:animate-pulse">What do I make?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">You can make whatever you want! From a simple calculator app to an online chat portal, feel free to make or submit anything. We encourage exploring and trying out new things!</p>
 			</div>
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
-				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">Does it cost money?</h1>
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
+				<h1 class="text-white text-3xl lg:text-2xl xl:text-4xl lg:ml-8 lg:mr-8 font-bold mb-8 mt-8 hover:animate-pulse">Does it cost money?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">Nope! Maneframe is absolutely free! We encourage anyone in middle or high school to attend.</p>
 			</div>
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
-				<h1 class="text-white sm:text-2xl xl:text-4xl lg:ml-16 lg:mr-16 font-bold mb-8 mt-8 hover:animate-pulse">Do I need a team?</h1>
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
+				<h1 class="text-white text-3xl lg:text-2xl xl:text-4xl lg:ml-8 lg:mr-8 font-bold mb-8 mt-8 hover:animate-pulse">Do I need a team?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">A team is not necessary, but working in a team is a great way to collaborate with like-minded peers! We will have a Team Mixer, or an event to allocate teams, if you are unsure who to team up with.</p>
 			</div>
 		</div>
@@ -121,14 +123,19 @@
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse" id="GS">Guest Speakers</h1>
 			</div>
 		</div>
-		<div class="w-screen sm:flex text-center content-center justify-center">
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
+		<div class="w-screen lg:flex text-center content-center justify-center">
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
 				<h1 class="text-2xl mb-10 underline text-white decoration-dashed">Viraj Kadakia</h1>
 				<img src="viraj.jpeg" alt="Viraj Kadakia" width="200" class="m-auto"/>
+				<h3 class="text-md mt-10 mb-10 text-white">Viraj Kadakia is a skilled software engineer specializing in backend and web development at CloudTrucks, with previous experience at Amazon and internships at StubHub and LendingClub. He holds a Bachelor's degree in Computer Science from UC Berkeley and has developed notable projects like the Receipt Allocator, an expense management tool, and HalfWay, a meeting location optimizer. 
+				</h3>
 			</div>
-			<div class="text-center sm:w-1/4 m-10 p-4 border-white rounded-md border-2">
+			<div class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2">
 				<h1 class="text-2xl mb-10 underline text-white decoration-dashed">Sagar Joshi</h1>
 				<img src="sagar.jpeg" alt="Sagar Joshi" width="200" class="m-auto"/>
+				<h3 class="text-md mb-10 mt-10 text-white">
+					Sagar Suhas Joshi is a roboticist specializing in motion planning at Aurora Innovation. He earned his PhD in robotics from Georgia Tech in 2022, where he developed intelligent exploration algorithms for efficient motion planning and learning. With a background from IIT-Madras, Sagar's work intersects A.I., machine learning, and optimal-control theory.  
+				</h3>
 			</div>
 			
 		</div>
@@ -154,39 +161,43 @@
 					  </thead>
 					  <tbody>
 						<tr>
-							<td class="text-white">9:30 - 10:00 A.M.</td>
+							<td class="text-white">9:00 - 9:15 A.M.</td>
 							<td class="text-white">Doors Open!</td>
 						</tr>
 						<tr>
-							<td class="text-white">10:00 - 10:15 A.M.</td>
+							<td class="text-white">9:15 - 9:30 A.M.</td>
 							<td class="text-white">Hacking Begins!!</td>
 						</tr>
 						<tr>
-							<td class="text-white">9:30 A.M.</td>
-							<td class="text-white">Breakfast</td>
-						</tr>
-						<tr>
-							<td class="text-white">10:15 - 10:30 A.M.</td>
+							<td class="text-white">9:30 - 10:00 A.M.</td>
 							<td class="text-white">Team Mixer</td>
 						</tr>
 						<tr>
-							<td class="text-white">10:30 - 11:30 A.M.</td>
-							<td class="text-white">Workshops</td>
+							<td class="text-white">10:00 - 12:00 P.M.</td>
+							<td class="text-white">First Coding Session</td>
 						</tr>
 						<tr>
-							<td class="text-white">12:00 - 12:30 P.M.</td>
+							<td class="text-white">12:00 - 1:00 P.M.</td>
 							<td class="text-white">Lunch</td>
 						</tr>
 						<tr>
-							<td class="text-white">1:30 - 2:30 P.M.</td>
-							<td class="text-white">Panelists</td>
+							<td class="text-white">1:00 - 2:00 P.M.</td>
+							<td class="text-white">Second Coding Session</td>
 						</tr>
 						<tr>
-							<td class="text-white">3:30 P.M.</td>
+							<td class="text-white">2:00 - 2:30 P.M.</td>
+							<td class="text-white">Guest Speakers</td>
+						</tr>
+						<tr>
+							<td class="text-white">2:30 - 3:45 P.M.</td>
+							<td class="text-white">Third Coding Session</td>
+						</tr>
+						<tr>
+							<td class="text-white">3:45 P.M.</td>
 							<td class="text-white">Project Deadline</td>
 						</tr>
 						<tr>
-							<td class="text-white">3:30 - 4:30 P.M.</td>
+							<td class="text-white">3:45 - 4:30 P.M.</td>
 							<td class="text-white">Demos</td>
 						</tr>
 						<tr>
@@ -194,7 +205,7 @@
 							<td class="text-white">Judging/Voting</td>
 						</tr>
 						<tr>
-							<td class="text-white">4:45 - 5:00 P.M.</td>
+							<td class="text-white">5:00 P.M.</td>
 							<td class="text-white">Winner and Award Ceremony</td>
 						</tr>
 					  </tbody>
