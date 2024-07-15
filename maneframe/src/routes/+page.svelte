@@ -52,6 +52,7 @@
 			</div>
 			<div class="navbar-center hidden lg:flex">
 				<ul class="menu menu-horizontal px-1">
+					<li><a href="/#ABT" class="text-xl text-white">About Us</a></li>
 					<li><a href="/#FAQ" class="text-xl text-white">FAQ</a></li>
 					<li>
 						<a href="/#GS" class="text-xl text-white"
@@ -148,19 +149,33 @@
 					come to the ManeFrame hackathon! Whether you're a seasoned
 					programmer or just starting out, we have a place for you!
 				</p>
+		
+			</div>
+		</div>
+		<div class="divider text-white divider-white sm:text-4xl"></div>
+		<!---->
+		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
+		<div class="w-screen flex text-center content-center justify-center">
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
+				<h1
+					class="text-white text-3xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse"
+				>
+					About Us
+				</h1>
 				<p
 					class="text-white text-xl lg:text-2xl 2xl:text3xl text-center justify-center content-center mb-4"
 				>
-					ManeFrame 2024 is organized by a team of high school
-					students in the Bay Area passionate about all aspects of
-					computer science, from machine learning to web development
-					and everything in between. With top-tier workshops and
-					mentors, we aim to foster an environment of collaboration
-					and hands-on learning to spark innovation in the minds of
-					this young generation. With the help of San Jose Public
-					Library, we promise to make the most engaging and truly fun
-					coding-based event we truly can!
+				ManeFrame 2024 is organized by a team of high school
+				students in the Bay Area passionate about all aspects of
+				computer science, from machine learning to web development
+				and everything in between. With top-tier workshops and
+				mentors, we aim to foster an environment of collaboration
+				and hands-on learning to spark innovation in the minds of
+				this young generation. With the help of San Jose Public
+				Library, we promise to make the most engaging and truly fun
+				coding-based event we truly can!
 				</p>
+			
 			</div>
 		</div>
 		<div class="divider text-white divider-white sm:text-4xl"></div>
@@ -262,7 +277,7 @@
 				class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2"
 			>
 				<h1
-					class="text-2xl mb-10 underline text-white decoration-dashed"
+					class="text-2xl mb-10 text-white decoration-dashed"
 				>
 					Viraj Kadakia
 				</h1>
@@ -286,7 +301,7 @@
 				class="text-center lg:w-1/4 m-10 p-4 border-white rounded-md border-2"
 			>
 				<h1
-					class="text-2xl mb-10 underline text-white decoration-dashed"
+					class="text-2xl mb-10 text-white decoration-dashed"
 				>
 					Sagar Joshi
 				</h1>

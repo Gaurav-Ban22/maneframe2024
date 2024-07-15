@@ -63,6 +63,7 @@
 		</div>
 		<div class="navbar-center hidden lg:flex">
 		  <ul class="menu menu-horizontal px-1">
+            <li><a href="/#ABT" class="text-xl text-white">About Us</a></li>
 			<li><a href="/#FAQ" class="text-xl text-white">FAQ</a></li>
 			<li><a href="/#GS" class="text-xl text-white">Guest Speakers</a></li>
 			<li><a href="/#SCHED" class="text-xl text-white">Schedule</a></li>
