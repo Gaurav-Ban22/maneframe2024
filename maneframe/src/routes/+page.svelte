@@ -115,7 +115,7 @@
 				<p
 					class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10"
 				>
-					TBD @ MLK Library, San Jose State University
+					October 19th @ MLK Library, San Jose State University
 				</p>
 			</Typewriter>
 		</div>
@@ -173,7 +173,7 @@
 				and hands-on learning to spark innovation in the minds of
 				this young generation. With the help of San Jose Public
 				Library, we promise to make the most engaging and truly fun
-				coding-based event we truly can!
+				coding-based event we truly can! Maneframe2024 will be taking place on October 19th, 2024.
 				</p>
 			
 			</div>
