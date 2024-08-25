@@ -65,10 +65,12 @@ export const actions = {
                     "Email": llvm.get("email"),
                     "Grade": llvm.get("grade"),
                     "Diet": llvm.get("diet"),
+                    "Team": llvm.get("team"),
                 }
             }
         ], function (err, records) {
             if (err) {
+                console.log("jadsf")
                 console.error(err);
                 val = false
             }

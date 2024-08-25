@@ -172,7 +172,7 @@
 				mentors, we aim to foster an environment of collaboration
 				and hands-on learning to spark innovation in the minds of
 				this young generation. With the help of San Jose Public
-				Library, we promise to make the most engaging and truly fun
+				Library and San Jose State University, we promise to make the most engaging and truly fun
 				coding-based event we truly can! Maneframe2024 will be taking place on October 19th, 2024.
 				</p>
 			
@@ -259,6 +259,7 @@
 				</p>
 			</div>
 		</div>
+		<p class="text-xl text-white mt-10 text-center text-bold">Also, please bring your own device!</p>
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
 		<!---->
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
@@ -455,7 +456,7 @@
 							</tr>
 
 							<tr>
-								<td class="text-white">3:45 - 4:30 P.M.</td>
+								<td class="text-white">3:45 - 4:15 P.M.</td>
 								<td class="text-white">
 									<h1 class="text-white text-md font-bold">
 										Demos
@@ -468,7 +469,7 @@
 							</tr>
 
 							<tr>
-								<td class="text-white">4:30 - 4:45 P.M.</td>
+								<td class="text-white">4:15 - 4:45 P.M.</td>
 								<td class="text-white">
 									<h1 class="text-white text-md font-bold">
 										Judging/Voting

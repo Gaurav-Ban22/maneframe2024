@@ -94,7 +94,7 @@
         <div class="card w-96 glass shadow-xl mb-20">
             <div class="card-body">
                 <h2 class="font-bold text-2xl text-white">Sign Up!</h2>
-                <h1 class="font-bold text-md text-white">TBD, 9:30 AM to 5:00 PM</h1>
+                <h1 class="font-bold text-md text-white">October 19th, 9:30 AM to 5:00 PM</h1>
                 <h1 class="font-bold text-md text-white">MLK Library, San Jose State University</h1>
                 <!------>
                 <form method="POST">
@@ -127,6 +127,13 @@
                             <span class="text-xs text-white">Any Dietary Restrictions?</span>
                         </div>
                         <input type="text" placeholder="e.g. vegan" class="input input-bordered" name="diet" id="llvm">
+                    </label>
+                    <label class="form-control w-full max-w-xs mt-10 text-left">
+                        <div class="label">
+                            <span class="text-xs text-white">Will you be applying with a team? If so, please list their names here. If not, simply write "No" to apply as an individual or write "Assign" to be randomly assigned one.
+                            </span>
+                        </div>
+                        <input type="text" placeholder="e.g. No" class="input input-bordered" name="team" id="llvm">
                     </label>
                 <br>
                 <br>
