@@ -64,7 +64,7 @@
 						>
 					</li>
 					<li>
-						<a href="/apply" class="text-xl text-white">Apply</a>
+						<a href="https://sjpl.bibliocommons.com/events/66df4512506577776c4af422" class="text-xl text-white">Apply</a>
 					</li>
 				</ul>
 			</div>
@@ -126,7 +126,7 @@
 			class="w-screen flex text-center content-center justify-center content-center"
 		>
 			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
-				<a href="/apply" id="llvmrefernce"
+				<a href="https://sjpl.bibliocommons.com/events/66df4512506577776c4af422" id="llvmrefernce"
 					><button
 						class="button bg-white text-black text-xl md:text-2xl p-4 2xl:p-10 md:m-2 rounded-xl"
 						>APPLY</button
