@@ -40,7 +40,7 @@
 						<li><a href="/#FAQ">FAQ</a></li>
 						<li><a href="/#GS">Guest Speakers</a></li>
 						<li><a href="/#SCHED">Schedule</a></li>
-						<li><a href="/apply">Apply</a></li>
+						<li><a href="https://sjpl.bibliocommons.com/events/66df4512506577776c4af422">Apply</a></li>
 					</ul>
 				</div>
 				<a class="btn btn-ghost text-xl text-white" href="/"
