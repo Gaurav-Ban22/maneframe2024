@@ -259,6 +259,7 @@
 				</p>
 			</div>
 		</div>
+		<p class="text-xl text-white mt-10 text-center text-bold">Resources to get started can be found <a class="underline font-bold" href="#RESOURCES">here!</a></p>
 		<p class="text-xl text-white mt-10 text-center text-bold">Also, please bring your own device!</p>
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
 		<!---->
@@ -551,6 +552,30 @@
 				class="divider text-white divider-white sm:text-4xl sm:mt-8"
 			></div>
 			<!---->
+			<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
+		<div class="w-screen flex text-center content-center justify-center">
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-8">
+				<h1
+					class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse"
+					id="RESOURCES"
+				>
+					Resources
+				</h1>
+			</div>
+		</div>
+		<p class="text-xl text-white mt-10 mb-10 text-center text-bold">Need project ideas or a way to get started? Check these out!</p>
+		<ul class="lilit-none align-right mb-20">
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=uqpJsjL33wc'>Input, Output, Variables in Python</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=OU7JJqoqAU0'>Installing an IDE</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=zvzjaqMBEso'>Functions in Python</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=9-8zou4tbQo'>Libraries in Python</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=bk12t0Xz5FM'>Intro to Machine Learning</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=xT1DARYPsdo'>Linear Regression Video</li>
+			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=TIEKzVwS12g'>Neural Networks Video</li>
+		</ul>
+
+		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
+		<!---->
 			<div
 				class="divider text-white divider-white sm:text-4xl sm:mt-8"
 			></div>
