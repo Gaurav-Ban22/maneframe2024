@@ -565,13 +565,13 @@
 		</div>
 		<p class="text-xl text-white mt-10 mb-10 text-center text-bold">Need project ideas or a way to get started? Check these out!</p>
 		<ul class="lilit-none align-right mb-20">
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=uqpJsjL33wc'>Input, Output, Variables in Python</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=OU7JJqoqAU0'>Installing an IDE</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=zvzjaqMBEso'>Functions in Python</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=9-8zou4tbQo'>Libraries in Python</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=bk12t0Xz5FM'>Intro to Machine Learning</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=xT1DARYPsdo'>Linear Regression Video</li>
-			<li class='underline font-bold m-4 text-lg text-white' href='https://www.youtube.com/watch?v=TIEKzVwS12g'>Neural Networks Video</li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=uqpJsjL33wc'>Input, Output, Variables in Python</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=OU7JJqoqAU0'>Installing an IDE</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=zvzjaqMBEso'>Functions in Python</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=9-8zou4tbQo'>Libraries in Python</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=bk12t0Xz5FM'>Intro to Machine Learning</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=xT1DARYPsdo'>Linear Regression Video</a></li>
+			<li class='underline font-bold m-4 text-lg text-white'> <a href='https://www.youtube.com/watch?v=TIEKzVwS12g'>Neural Networks Video</a></li>
 		</ul>
 
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8"></div>
